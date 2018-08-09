@@ -1,0 +1,10 @@
+lab\dao\SchoolDayDAO.class
+lab\models\HomeWork.class
+lab\models\Subject.class
+lab\controller\MainController.class
+lab\controller\SchoolDayController.class
+lab\controller\SubjectController.class
+lab\models\SchoolDay.class
+lab\service\SchoolDayService.class
+lab\dao\SubjectDAO.class
+lab\service\SubjectService.class
